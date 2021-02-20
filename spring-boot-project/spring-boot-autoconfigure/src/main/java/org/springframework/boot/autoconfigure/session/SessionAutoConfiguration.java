@@ -180,7 +180,7 @@ public class SessionAutoConfiguration {
 	}
 
 	/**
-	 * {@link ImportSelector} to add {@link StoreType} configuration classes for reactive
+	 * {@link ImportSelector} to add {@link StoreType} 配置类 for reactive
 	 * web applications.
 	 */
 	static class ReactiveSessionConfigurationImportSelector extends SessionConfigurationImportSelector {
